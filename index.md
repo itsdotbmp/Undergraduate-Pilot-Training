@@ -4,7 +4,7 @@ Welcome new pilot. This is the UPT course overview with links to each part of th
 
 ## UPT Framework
 
-### Sortie 1
+### [Sortie 1](Sortie-1/)
 - Basic comms (understanding basic tower and flight communications)
 - Rejoin and basic formation (understanding closeure to rejoin in an orbit and saddle on outside wing)
 - Bombing pattern/mutual support (understanding shooter/support dynamic and offset dive bombing)
