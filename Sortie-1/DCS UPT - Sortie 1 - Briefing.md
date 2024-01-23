@@ -16,7 +16,7 @@ What is a ground attack pattern? How does it differ from a landing pattern. We w
 	Return to base and Landing
 How do we get home, this covers navigations, formation flying and a very basic landing pattern. This landing pattern is based on general aviation patterns and is a foundation for many other things we will cover.
 ---
-# Basic Communications
+### Basic Communications
 	**A** this is **B**, where is **C**?
 Who I am, who I’m calling, what I want
 	Plain Language
@@ -38,3 +38,4 @@ The information is
 - Green Jet: The aircraft is started up, configured, no warnings or cautions, and the checklists are completed.
 - Yardstick Sweet/Yardstick Sour: A TACAN Yardstick is often used. Between two aircraft to help judge distance and closure rates between aircraft. The A4 does not seem to have a functional ability to perform yardstick.
 - Fuel State: This is the amount of fuel in the aircraft in thousands with a point and the hundreds. So 3900 is three point nine.
+
