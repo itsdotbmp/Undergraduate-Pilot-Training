@@ -1,6 +1,6 @@
 # DCS Undergraduate Pilot Training Program
-## Sortie 1 Training Package
-### About this Sortie
+# Sortie 1 Training Package
+## About this Sortie
 This is our first sortie of the DCS UPT Program, It will be used to assess where the Cadet pilot is in their skills, as well as begin introducing the standards of operations (SOPs) in the 3or4 VFW.
 
 It is your responsibility, as a Cadet, to ensure you have reviewed this information and understand it before scheduling a sortie with your IP. If you have questions, or are unclear about anything, please reach out to an IP to get clarification or help. Grading criteria is available below for viewing. Flying with your fellow Cadets is a great way to prepare for UPT sorties, and we highly encourage it.
@@ -8,7 +8,7 @@ It is your responsibility, as a Cadet, to ensure you have reviewed this informat
 More information on our Training Program can be found [here](training_program).
 
 
-### Outline of Sortie 1
+## Outline of Sortie 1
 The Basic flight plan for sortie 1 is as follows:
 - Basic communications
     - Structure of Communications
@@ -23,11 +23,11 @@ The Basic flight plan for sortie 1 is as follows:
 - Return to base and landing
 
 
-### Basic Communications
+## Basic Communications
 Communication is a fundemental part of flying as an organized group. The following outlines the structure of proper radio communication, use of plain language, Non-towered airfield communications, and inter-flight communications.
 
 
-#### Structure of Communications
+### Structure of Communications
 
 The basis of most radio communications is the "ABC" structure. It is designed to make it quick and easy to understand. A. who is being addressed and by B. whom. Followed by C. which is the subject of the call. A helpful way to remember this is "A this is B, where is C?". Remembering that "B is me" will ensure there is no confusion as to who you are speaking to. 
 
@@ -58,31 +58,31 @@ This call is different. It does not say who it is too specifically, it simply st
 This is an example of a brevity word used to convey an action, state, or request, in a quick and concise manner. A list of common brevity words can be found (here[link]), but for now, step by step instructions will be provided for most tasks a Cadet will be expected to perform.
 
 
-##### A Note on Plain Language
+#### A Note on Plain Language
 
 While brevity words can be very efficient, sometimes an issue can not be fully conveyed without being more verbose or descriptive. Or the correct brevity word may not be known to the pilot. In these, and similiar cases, plain english certainly can be used, and is preferable to delayed comms, or no comms at all.
 
 
-#### Radio Etiquette*
+### Radio Etiquette*
 
 Just like using structure, brevity, and plain language to help us communicate clearly, we need to observe good radio etiquette so that everyone is able to communicate in a timely manner.
 
 The basics of Radio Etiquette are, Think, Press, Speak
 
-Push to talk, not push to think
-Press transmit before you start talking
-Speak clearly and be concise. Say only what is necessary to convey your message.
+- Push to talk, not push to think
+- Press transmit before you start talking
+0 Speak clearly and be concise. Say only what is necessary to convey your message.
 
 Communications are the key to flying effectively as a group, but the reality of radio communication is that only one operator may transmit at a time. Another transmission at the same time renders both unintelligible, and a long transmission may leave others waiting to convey urgent messages. If you begin transmitting, but are unsure what to say, STOP. Think it through and begin again when the air is clear. Following the above guidelines will help to minimize your radio footprint, and ensure you are speaking in a standard format that others will easily understand. 
 
 
-##### Break Break
+#### Break Break
 An important brevity call you might hear on the radio is **Break Break**.
 
 This signifies that an important transmission needs to come through, you are to pay attention and await the incoming transmission. Only once this transmission has come through should you then make radio calls.
 
 
-#### Non-Towered Airfields
+### Non-Towered Airfields
 
 We do not have human ATC in our DCS Squadron, so we will be using Non-Towered Airfield protocols to coordinate with eachother when operating at or near airfields or carriers.
 
@@ -100,5 +100,5 @@ Further information for real world procedures see this [FAA document (AC_90-66B 
 Operations)](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-66B.pdf)
 
 
-#### Inter-flight Communication
+### Inter-flight Communication
 
