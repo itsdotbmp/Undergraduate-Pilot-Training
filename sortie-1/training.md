@@ -76,8 +76,8 @@ The basics of Radio Etiquette are, Think, Press, Speak
 Communications are the key to flying effectively as a group, but the reality of radio communication is that only one operator may transmit at a time. Another transmission at the same time renders both unintelligible, and a long transmission may leave others waiting to convey urgent messages. If you begin transmitting, but are unsure what to say, STOP. Think it through and begin again when the air is clear. Following the above guidelines will help to minimize your radio footprint, and ensure you are speaking in a standard format that others will easily understand. 
 
 
-#### Break Break
-An important brevity call you might hear on the radio is **Break Break**.
+#### Break! Break!
+An important brevity call you might hear on the radio is **Break! Break!**.
 
 This signifies that an important transmission needs to come through, you are to pay attention and await the incoming transmission. Only once this transmission has come through should you then make radio calls.
 
