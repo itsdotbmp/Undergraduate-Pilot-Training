@@ -53,7 +53,7 @@ Let's take a look at one last example.
 
 This call is different. It does not say who it is too specifically, it simply states the sender's callsign, and what they are doing. Talon 1-1 identifies themselves, then calls "Fox 1" as a brevity word to indicate they have launched a semi-active radar guided missile and the target is a Mig 29
 
-This is an example of a brevity word used to convey an action, state, or request, in a quick and concise manner. A list of common brevity words can be found [here](../appendix/brevity.htm), but for now, step by step instructions will be provided for most tasks a Cadet will be expected to perform.
+This is an example of a brevity word used to convey an action, state, or request, in a quick and concise manner. A list of common brevity words can be found [here](../appendix/brevity), but for now, step by step instructions will be provided for most tasks a Cadet will be expected to perform.
 
 
 #### A Note on Plain Language
