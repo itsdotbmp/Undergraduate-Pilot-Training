@@ -63,7 +63,7 @@ This is an example of a brevity word used to convey an action, state, or request
 While brevity words can be very efficient, sometimes an issue can not be fully conveyed without being more verbose or descriptive. Or the correct brevity word may not be known to the pilot. In these, and similiar cases, plain english certainly can be used, and is preferable to delayed comms, or no comms at all.
 
 
-### Radio Etiquette*
+### Radio Etiquette
 
 Just like using structure, brevity, and plain language to help us communicate clearly, we need to observe good radio etiquette so that everyone is able to communicate in a timely manner.
 
@@ -71,7 +71,7 @@ The basics of Radio Etiquette are, Think, Press, Speak
 
 - Push to talk, not push to think
 - Press transmit before you start talking
-0 Speak clearly and be concise. Say only what is necessary to convey your message.
+- Speak clearly and be concise. Say only what is necessary to convey your message.
 
 Communications are the key to flying effectively as a group, but the reality of radio communication is that only one operator may transmit at a time. Another transmission at the same time renders both unintelligible, and a long transmission may leave others waiting to convey urgent messages. If you begin transmitting, but are unsure what to say, STOP. Think it through and begin again when the air is clear. Following the above guidelines will help to minimize your radio footprint, and ensure you are speaking in a standard format that others will easily understand. 
 
