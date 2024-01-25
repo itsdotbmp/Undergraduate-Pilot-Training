@@ -43,16 +43,19 @@ So now that we understand the basic structure, how does it sound in use? Here is
 
 **C.** Finally, the sender indicates that their flight intends to position for departure on runway 23R.
 
-Lets take a look another example:
-> TALON 2, TALON 1, Check in
+Lets take a look at another example:
 
-This time we see that our IP is sending a radio transmission to us TALON 2. We know that it was TALON 1 that sent it to us, and they are asking us to check in. We will cover what this means in our inter-flight communications section.
+TALON 1-1, Fox One, Mig-29
 
-One last example:
-> TALON 1, Fox One, Mig-29
+This call is different. It does not say who it is too specifically, it simply states the sender's callsign, and what they are doing. Talon 1-1 identifies themselves, then calls "Fox 1" as a brevity word to indicate they have launched a semi-active radar guided missile and the target is a Mig 29
 
-This call is different, It does not say who it is too specifically, it simply states the callsign of who is making the call, and what they are doing. This is an example of a Brevity Call. We will teach Brevity calls as they are required, so do not worry about trying to learn them all right now. However, this call tells us that TALON 1 has fired a semi-active radar guided missile, and we know that the target is a Mig-29. 
+This is an example of a brevity word used to convey an action, state, or request, in a quick and concise manner. A list of common brevity words can be found (here[link]), but for now, step by step instructions will be provided for most tasks a Cadet will be expected to perform.
 
+Let's take a look at one last example.
+
+> TALON 1, FLIGHT, check in 253
+
+In this example, a flight has just executed a frequency change, and the lead pilot has made a call on that new frequency to confirm their wingmen have made the switch succesfully. Wingmen would reply with their number in the flight, such as "2", to acknowledge.
 
 #### Plain Language
 
