@@ -8,7 +8,7 @@ It is your responsibility, as a Cadet, to ensure you have reviewed this informat
 More information on our Training Program can be found [here](training_program).
 
 
-## Outline of Sortie 1
+## Table of Contents
 The Basic flight plan for sortie 1 is as follows:
 - Basic communications
     - [Structure of Communications](#structure-of-communications)
