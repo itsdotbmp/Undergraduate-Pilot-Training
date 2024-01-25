@@ -45,48 +45,38 @@ So now that we understand the basic structure, how does it sound in use? Here is
 
 Lets take a look at another example:
 
-TALON 1-1, Fox One, Mig-29
+> TALON 1, FLIGHT, check in 253
+
+In this example, a flight has just executed a frequency change, and the lead pilot has made a call on that new frequency to confirm their wingmen have made the switch succesfully. Wingmen would reply with their number in the flight, such as "2", to acknowledge.
+
+Let's take a look at one last example.
+
+> TALON 1-1, Fox One, Mig-29
 
 This call is different. It does not say who it is too specifically, it simply states the sender's callsign, and what they are doing. Talon 1-1 identifies themselves, then calls "Fox 1" as a brevity word to indicate they have launched a semi-active radar guided missile and the target is a Mig 29
 
 This is an example of a brevity word used to convey an action, state, or request, in a quick and concise manner. A list of common brevity words can be found (here[link]), but for now, step by step instructions will be provided for most tasks a Cadet will be expected to perform.
 
-Let's take a look at one last example.
 
-> TALON 1, FLIGHT, check in 253
+##### A Note on Plain Language
 
-In this example, a flight has just executed a frequency change, and the lead pilot has made a call on that new frequency to confirm their wingmen have made the switch succesfully. Wingmen would reply with their number in the flight, such as "2", to acknowledge.
-
-#### Plain Language
-
-Brevity Codes, NATO phonetic Alphabet, and Radio Structure help us communicate quickly with eachother. However Plain language is always acceptable when you are unsure of the correct Brevity Call or phrasing, or need to explain something complicated.
-
-It is always more important to communicate clearly then to get caught up in Jargon or codenames etc. We do however require use of the NATO phonetic alphabet. This limits the amount of issues that can arrise from the fact that many letters such as; b, c, d, e, f, and g, can all sound similar over a radio transmission. 
-
-Here is a [link](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet) to wikipedia that can be helpful in learning the NATO phonetic alphabet.
+While brevity words can be very efficient, sometimes an issue can not be fully conveyed without being more verbose or descriptive. Or the correct brevity word may not be known to the pilot. In these, and similiar cases, plain english certainly can be used, and is preferable to delayed comms, or no comms at all.
 
 
 #### Radio Etiquette*
 
-Just like using plain language, brevity codes, and radio structure serve to help us communicate clearly, we need to observe good radio etiquette so that everyone is able to communicate.
+Just like using structure, brevity, and plain language to help us communicate clearly, we need to observe good radio etiquette so that everyone is able to communicate in a timely manner.
 
 The basics of Radio Etiquette are, Think, Press, Speak
- - Push to talk, not push to think
- - Press transmit *before* you start talking
- - Speak Clearly, say only what is needed
 
-Think about what you want to say before you begin transmitting, who do you need to transmit to, which radio do you need to use, what do you need to communicate. Take a moment to organize your thoughts.
+Push to talk, not push to think
+Press transmit before you start talking
+Speak clearly and be concise. Say only what is necessary to convey your message.
 
-Then, press the transmit key, and wait a moment before you start speaking. Most radios might take a moment before they start transmitting after you press the key. Also ensure that you've pressed the transmit key before you start talking, so that you do not cut off the beginning of your message.
-
-Once you begin relaying your message, keep it short and organized. There may be times where you are talking with eachother over interflight a bit more casually, but most of the time we reserve the air for important transmissions.
-
-If you are transmitting, no one else is able to transmit, so you are blocking transmission for everyone else, even if they have an important transmission that needs to go out.
-
-If you are transmitting and lose your train of thought, or need a moment. End your transmission, collect yourself, and when the traffic is clear, begin again. 
+Communications are the key to flying effectively as a group, but the reality of radio communication is that only one operator may transmit at a time. Another transmission at the same time renders both unintelligible, and a long transmission may leave others waiting to convey urgent messages. If you begin transmitting, but are unsure what to say, STOP. Think it through and begin again when the air is clear. Following the above guidelines will help to minimize your radio footprint, and ensure you are speaking in a standard format that others will easily understand. 
 
 
-#### Break Break*
+##### Break Break
 An important brevity call you might hear on the radio is **Break Break**.
 
 This signifies that an important transmission needs to come through, you are to pay attention and await the incoming transmission. Only once this transmission has come through should you then make radio calls.
