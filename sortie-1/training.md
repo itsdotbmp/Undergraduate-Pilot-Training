@@ -11,12 +11,10 @@ More information on our Training Program can be found [here](training_program).
 ## Outline of Sortie 1
 The Basic flight plan for sortie 1 is as follows:
 - Basic communications
-    - Structure of Communications
-    - Plain Language
-    - Radio Etiquette
-    - Break Break
-    - Non-Towered Airfield Communication
-    - Inter-flight Communication
+    - [Structure of Communications](#structure-of-communications)
+    - [Radio Etiquette](#radio-etiquette)
+    - [Non-Towered Airfield Communication](#non-towered-airfields)
+    - [Inter-flight Communication](#inter-flight-communication)
 - Taxi and take-off
 - Rejoin and transit
 - Bombing range pattern
@@ -37,7 +35,7 @@ So now that we understand the basic structure, how does it sound in use? Here is
 
 > NELLIS TRAFFIC, TALON 1, Training flight of TWO A4s, Taxiing from APRON via BRAVO to RUNWAY TWO THREE RIGHT
 
-**A.** Firstly, this call is to all traffic within the Nellis airspace. We will go into greater detail (here[link]) on non-towered airfield communication.
+**A.** Firstly, this call is to all traffic within the Nellis airspace. We will go into greater detail (here[#non-towered-airfields]) on non-towered airfield communication.
 
 **B.** Secondly, the sender identifies the callsign of the flight, in this case TALON 1, this allows other pilots to know who is transmitting. Then, the sender identifies some key details about the nature of their flight as this is their first call on the frequency. Typically the number and type of aircraft the flight contains, and in this case, that it is a training flight.
 
