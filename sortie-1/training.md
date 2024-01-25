@@ -5,7 +5,7 @@ This is our first sortie of the DCS UPT Program, It will be used to assess where
 
 It is your responsibility, as a Cadet, to ensure you have reviewed this information and understand it before scheduling a sortie with your IP. If you have questions, or are unclear about anything, please reach out to an IP to get clarification or help. Grading criteria is available below for viewing. Flying with your fellow Cadets is a great way to prepare for UPT sorties, and we highly encourage it.
 
-More information on our Training Program can be found [here](training_program).
+More information on our Training Program can be found [here](../training_program).
 
 
 ## Table of Contents
