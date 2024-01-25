@@ -1,11 +1,9 @@
 # DCS Undergraduate Pilot Training Program
 ## Sortie 1 Training Package
 ### About this Sortie
-This is our first sortie of the DCS UPT Program, It will be used to assess where the Cadet pilot is in their skills, as well as begin introducing the standards of operations (SOPs) that we expect to be used in our unit.
+This is our first sortie of the DCS UPT Program, It will be used to assess where the Cadet pilot is in their skills, as well as begin introducing the standards of operations (SOPs) in the 3or4 VFW.
 
-All of the training materials are open and accessable for anyone at any point, as well as our grading guidelines and instructor information. Please feel free to view any of this information to help learn the skills and processes that we use. Please note that some of these processes may differ from how they may be used in a specific airframe or situation, they are not intended to be completely accurate or fully encompassing, instead they are a foundation we use to build all other skills on. 
-
-It is your responsibility as a Cadet to ensure you have reviewed this information and understand it before scheduling a sortie with your IP. We realize some of this information may be stuff that you already are familure with, we have tried to ensure that any important information is appropriately highlited. If you have questions or are unclear about anything please reach out to your fellow cadets or IPs to get clarification or help. We encourage cadets to practice the skilsl learned for these sorties together as well.
+It is your responsibility, as a Cadet, to ensure you have reviewed this information and understand it before scheduling a sortie with your IP. If you have questions, or are unclear about anything, please reach out to an IP to get clarification or help. Grading criteria is available below for viewing. Flying with your fellow Cadets is a great way to prepare for UPT sorties, and we highly encourage it.
 
 More information on our Training Program can be found [here](training_program).
 
@@ -26,28 +24,24 @@ The Basic flight plan for sortie 1 is as follows:
 
 
 ### Basic Communications
-Basic communication is a fundemental part of flying as an organized group. We will cover the structure of proper radio communication, plain language, Non-towered airfield communications, and inter-flight communications.
+Communication is a fundemental part of flying as an organized group. The following outlines the structure of proper radio communication, use of plain language, Non-towered airfield communications, and inter-flight communications.
 
 
 #### Structure of Communications
 
-The basic radio structure that we use is one based on a structure used by many organizations around the world. It is structured to make it quick and easy to understand who needs to pay attention, who is talking to them, and then message. The basic structure is:
+The basis of most radio communications is the "ABC" structure. It is designed to make it quick and easy to understand. A. who is being addressed and by B. whom. Followed by C. which is the subject of the call. A helpful way to remember this is "A this is B, where is C?". Remembering that "B is me" will ensure there is no confusion as to who you are speaking to. 
 
 > **A** this is **B**, where is **C**?
 
-By remembering that *B is me* can help you remember this format. It will likely feel awkward or strange to use at first, but through practice it will become easier. If you mess it up you may find yourself being corrected, but we much rather you try and communicate and get it wrong then not have any communication at all.
-
-So now that we see what the basic structure is, how does this sound like in real use? Here are some examples:
+So now that we understand the basic structure, how does it sound in use? Here is an example:
 
 > NELLIS TRAFFIC, TALON 1, Training flight of TWO A4s, Taxiing from APRON via BRAVO to RUNWAY TWO THREE RIGHT
 
-First this is a call is for Nellis Traffic, it is using uncontroled airspace communication where we do not talk to an ATC tower, instead we make announcements of our intentions to the radio frequency for that airspace. We will go into this in greater detail in the secion on [non-towered airfield communication](#Non-Towered Airfields).
+**A.** Firstly, this call is to all traffic within the Nellis airspace. We will go into greater detail (here[link]) on non-towered airfield communication.
 
-Second, the IP identifies the callsign of the flight, in this case TALON 1, this allows other pilots to know who is transmitting.
+**B.** Secondly, the sender identifies the callsign of the flight, in this case TALON 1, this allows other pilots to know who is transmitting. Then, the sender identifies some key details about the nature of their flight as this is their first call on the frequency. Typically the number and type of aircraft the flight contains, and in this case, that it is a training flight.
 
-Then we hear the IP identify what sort of aircraft is in the flight, and that it is a Training Flight. This information helps other pilots to understand what to expect from your flight, Helicopters move around the airspace differently then A4s or F4s. This also lets them know that it is a training flight, to give them a bit more space as they may need it.
-
-Then the IP informs everyone listening that the flight will be taxiing from the apron to the 23R runway and which taxiway to expect them to be travelling on. This helps any other aircraft in the area to coordinate with your flight safely.
+**C.** Finally, the sender indicates that their flight intends to position for departure on runway 23R.
 
 Lets take a look another example:
 > TALON 2, TALON 1, Check in
