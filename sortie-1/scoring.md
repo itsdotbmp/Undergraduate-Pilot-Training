@@ -29,7 +29,7 @@ Single Fail is a failure of the entire sortie and requires to repeat the sortie 
 - Take-Off 
   - Exceeds - Appropriate take off speed, clean retraction of gears and flaps, steady AoA
   - Standard - Pull up early, or late, moderate PIO, loss of control but recovered.
-  - Opportunity- Major Track deviation, major PIO, gross overspeed or pitch/roll moment, damage to aircraft.
+  - Opportunity - Major Track deviation, major PIO, gross overspeed or pitch/roll moment, damage to aircraft.
 - Rejoin in orbit
   - Exceeds - ¾ orbit (or less)
   - Standard - 1 orbit (or less)
