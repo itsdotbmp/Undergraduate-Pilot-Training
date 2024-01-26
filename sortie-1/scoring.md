@@ -27,28 +27,28 @@ Single Fail is a failure of the entire sortie and requires to repeat the sortie 
 - **No/Fail** - Loss of airframe
 - **No/Fail** - Unsafe flight practices
 - Take-Off 
-  -          - Appropriate take off speed, clean retraction of gears and flaps, steady AoA
+  - Exceeds - Appropriate take off speed, clean retraction of gears and flaps, steady AoA
   - Standard - Pull up early, or late, moderate PIO, loss of control but recovered.
-  -          - Major Track deviation, major PIO, gross overspeed or pitch/roll moment, damage to aircraft.
+  - Opportunity- Major Track deviation, major PIO, gross overspeed or pitch/roll moment, damage to aircraft.
 - Rejoin in orbit
   - Exceeds - ¾ orbit (or less)
   - Standard - 1 orbit (or less)
-  - Deficient - 1½ orbit (or less)
-  - Unqualified - Greater then 1½
+  - Opportunity - 1½ orbit (or less)
+  - Unqualified - Greater then 1½ orbit
 - Transit
   - Exceeds - Safe and expeditious conduct
   - Standard - Maintains "cone of manuever with light to mild oscillation/corrections
-  - Deficient - Infrequent loss of visual and/or dramatic deviation from "cone of manuever" or speed/alt
+  - Opportunity - Infrequent loss of visual and/or dramatic deviation from "cone of manuever" or speed/alt
   - Unqualified - Frequent loss of visual, extreme oscillations/corrections in any aspect, unsafe breakaway
 - Bombing pattern
   - Exceeds - Proficient in trail, position and "in" calls as shooter
   - Standard - Maintains pattern with minor visual or comm deficiency
-  - Deficient - Major deviation from pattern/extended loss of visual
+  - Opportunity - Major deviation from pattern/extended loss of visual
 - Landing
   - Exceeds - controlled base, final on glideslope, touchdown on AOA
   - Standard - minor deviations in base and final, touchdown without major speed excess or instability
-  - Deficient - moderate to severe deviations on base or final. Landing out of parameters
+  - Opportunity - moderate to severe deviations on base or final. Landing out of parameters
 - Comms
   - Exceeds - Clear and concise
   - Standard - Non standard but reasonably effective
-  - Deficient - Unclear, frequently broken, non responsive
+  - Opportunity - Unclear, frequently broken, non responsive
