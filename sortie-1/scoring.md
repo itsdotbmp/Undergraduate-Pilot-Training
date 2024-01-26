@@ -1,18 +1,3 @@
-slot in
-radio comm established
-mute on discord
-call green
-roll to runway
-take off
-rejoin - 275kts max
-fly to range
-bombing pattern
--2 in for dash1
--2 in for dash2
-return
-landing pattern
-
-
 # Scoring Guidelines
 ~~0 - Unqualified, no points awarded | 1 - Deficient, needs work | 2 - Acceptable | 3 - Exceeds Requirements~~
 ~~Passing score of 12 or better,~~ however proceeding on to the next Sortie is always at IP discretion.
@@ -26,6 +11,13 @@ Single Fail is a failure of the entire sortie and requires to repeat the sortie 
 - **No/Fail** - Negligent weapon release
 - **No/Fail** - Loss of airframe
 - **No/Fail** - Unsafe flight practices
+
+PROPOSAL FOR CHANGES TO GRADING RUBRIC
+
+Language for what the standard looks like
+Langauge for what it looks like to do better then the standard
+Language for what things could be missing when not meeting the standard
+
 - Take-Off 
   - Exceeds - Appropriate take off speed, clean retraction of gears and flaps, steady AoA
   - Standard - Pull up early, or late, moderate PIO, loss of control but recovered.
