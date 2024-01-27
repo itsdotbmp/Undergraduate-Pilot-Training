@@ -77,22 +77,34 @@ Communications are the key to flying effectively as a group, but the reality of 
 #### Break! Break!
 An important brevity call you might hear on the radio is **Break! Break!**.
 
-This signifies that an important transmission needs to come through, you are to pay attention and await the incoming transmission. Only once this transmission has come through should you then make radio calls.
+This signifies that an important transmission needs to come through, you are to pay attention and await the incoming transmission. Only once this transmission has come through should you then make radio transmissions.
 
 
 ### Non-Towered Airfields
 
-We do not have human ATC in our DCS Squadron, so we will be using Non-Towered Airfield protocols to coordinate with eachother when operating at or near airfields or carriers.
+DCS Does not have an indepth Air Traffic Control system, so to facilitate a safe and organized airspace we have adopted a Unified Non-Towered Airfield protocol (UNAP). Their are two key differences between the UNAP and a Towered Airfield protcols, the first is that in UNAP airspace pilots announce their intentions over the radio instead of making requests of an ATC Controller. The second key difference is noted in the difference of suffix, in UNAP airspace transmissions are made to TRAFFIC instead of TOWER.
 
-The first major difference with non-towered radio calls is that we suffix our calls with *TRAFFIC* instead of *TOWER*. The second major distinction is that they are announcements instead of requests, instead of requesting taxi, you are informing others that you are intending to do so. 
+Becuase UNAP airspace does not have a traffic controller, it is essential for all pilots to coordinate their movement both on the ground, and in the the air, to prevent unsafe conditions. Aircraft taxiing on the airfield must announce their intentions for movement, including their start location, destination, and approximate taxi-ways.
 
-An example of a towered airfield radio call:
-> NELLIS TOWER, TALON 1, REQUESTING taxi to runway TWO THREE RIGHT
+An example of a towered airfield radio transmission:
+> NELLIS TOWER, TALON ONE, REQUESTING taxi to runway TWO THREE RIGHT
 
-An example of a non-towered airfield radio call:
-> NELLIS TRAFFIC, TALON 1, Taxiing to runway TWO THREE RIGHT
+An example of an UNAP radio transmission:
+> NELLIS TRAFFIC, TALON ONE, Taxiing to runway TWO THREE RIGHT
 
-It is important to note, because you do not have a person coordinating the actions of aircraft in the air or on the ground, it is your responsibility to coordinate with other pilots to ensure safe operations. It is not a free pass to do anything you want.
+
+Pilots intending to land at an UNAP controlled airfield should announce their bearing, distance and type when entering the airspace at about 10-20 nautical miles from the airfield. On entering the traffic pattern of the airfield, pilots should announce the direction they are joining the traffic from, and which stage of the traffic pattern they are in. Pilots should continue to announce the stages of their pattern as they pass through them.
+
+An example of an UNAP radio transmission announcing entry into the air space 10 miles around the airfield with the intention to land:
+> NELLIS TRAFFIC, TALON ONE FLIGHT, TWO ship, 10 miles on approach for runway FIVE ZERO.
+
+An example of an UNAP radio transmission announcing joining the pattern:
+> NELLIS TRAFFIC, TALON ONE FLIGHT, joining upwind, Three-thousand AGL, runway FIVE ZERO.
+
+Aircraft departing the UNAP airfield should announce their intended departure direction as such:
+> NELLIS TRAFFIC, TALON ONE FLIGHT, departing NORTH
+
+A common convention you may hear some pilots use is to repeat the recipient of the traffic call at the end, by wrapping your radio transmission with the location on both ends we ensure that it is clear which airfield the transmission is for when more then one airfield share a common frequency. This also provides pilots who may have truned in during your transmission to know critical information that they have missed at the beginning of the transmission. This is not a requirement, especially on shorter calls.
 
 Further information for real world procedures see this [FAA document (AC_90-66B Non-Towered Airport Flight
 Operations)](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-66B.pdf)
@@ -100,3 +112,42 @@ Operations)](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-6
 
 ### Inter-flight Communication
 
+Inter-flight communication is the name given to all communications between the aircraft that comprimise a flight. The flight adopts modified callsigns, removing the tactical callsign and using instead their position within the flight. The flight leader as DASH ONE, and wingmen will then be numbered DASH TWO, DASH THREE, and DASH FOUR respectively.
+
+Most inter-flight communications will take place on a dedicated channel specifically used by the flight. By using an unique radio frequency a flight is able to protect the integrety of their transmissions. Inter-flight communication uses a simplified form of the ABC radio conventions, this is to assure that the radio frequency is held clear for time critical callouts between members of the flight. 
+
+Common inter-flight communication is split in two rolls. Firstly the flight lead will make requests, and the wignmen will respond with their number, for example DASH-TWO will simply transmit the shortened reply "TWO".
+
+An example of the shortened inter-flight transmissions between a flight lead and their wingman would sound like:
+> Talon 1-1: TALON FLIGHT, left turn to THREE-HUNDRED
+
+> Talon 1-2: TWO
+
+> Talon 1-3: THREE
+
+> Talon 1-4: FOUR
+
+Wingmen are expected to communicate over the radio when significant events happen, these are not limited to but include: 
+- SAM launch smoke trail, or ground fire tracers detected.
+- Obsticles posing an immediate danger to the flight. 
+- Malfunctions, or unexpected difficulties with the aircraft or manouver.
+- Changes in aircraft state such as BINGO callouts or fuel state.
+
+Most importantly when flying in formation wingmen should call out when they lose visual sight of the flight lead or aircraft they are following in formation (more on this is covered in [Sortie 2](../sortie-2/training))
+
+Inter-flight communications may also happen on a non-interflight frequency, such as during landing operations. In these situations the flight lead will call for their flight to check in once on the new radio channel to ensure all members of the flight are tuned to the correct frequency. The same format will be used by the flight for checking in.
+
+An example a two ship flight check in on 127.5 MHz:
+> TALON FLIGHT, check in ONE TWO SEVEN POINT FIVE
+
+> TWO
+
+#### Helmet Fire
+
+When pilots have too much radio traffic, the sounds of the aircraft, missile tones, RWR gear, and perhaps even intercom radio chatter from their back seat, we call this *radio fire*.
+
+This is a condition where a radio operator is overwhelmed. In this situation the operator will need to start prioritizing information and will not be able to appropriately recieve or react to incoming traffic. It can quickly become a dangerous situation as the pilots ability to fly and assess threats is quickly overwhelmed.
+
+It can be difficult to know if the pilot you are transmitting with over a shared frequency is in such a situation at times, especially because you may not be in that situation. However should you ever find yourself in this situation you will quickly understand why it is so critical that we follow these standards in our radio communications greatly simplifying the workload.
+
+When experiencing helmet fire and dealing with critical situations in our aircraft, it is always acceptable to inform others on the frequency that you are dealing with something and that you need less helmet fire. And when you yourself hear such a request, treat it similarly to a *break! break!* or *hold traffic* command. 
