@@ -15,10 +15,14 @@ The Basic flight plan for sortie 1 is as follows:
     - [Radio Etiquette](#radio-etiquette)
     - [Unified Non-Towered Airfield Communication](#unified-non-towered-airfields)
     - [Inter-flight Communication](#inter-flight-communication)
-- [Taxi and take-off](#taxi-and-take-off)
+- [Taxi and Take-off](#taxi-and-take-off)
     - [Taxiing](#taxiing)
-- [Rejoin and transit]
-- [Bombing range pattern]
+    - [Take-off](#takeoff)
+- [Rejoin and transit](#rejoin-and-transit)
+    - [Safe-Rejoins](#safe-rejoins)
+    - [Positioning and Formation](#positioning-and-formation)
+- [Bombing Range Pattern](#bombing-range-pattern)
+    - [The Pattern](#the-pattern)
 - [Return to base and landing]
 
 
@@ -209,7 +213,7 @@ As we manouver to rejoin into formation with our flight lead we are cutting insi
 
 *Please refer to the figure below regarding lead, lag, and positiong*
 
-### Unsafe-Rejoin
+### Safe-Rejoins
 If we see that we are moving too quickly to safely rejoin, we must fly in a way that ensures we do not go blind of our instructor aircraft, so we aim behind them and below them. This is commonly referred to *spitting out* in air combat manouvers. This ensures we do inadvertently fly into our wingmans aircraft when we can not see it below our aircraft.
 
 If you are unable to rejoin on the first attempt it is much preferred that you lag behind your flight lead to travel a further distance and create seperation before attempting to rejoin once again.
@@ -223,3 +227,25 @@ When moving into formation position we aim to be in a similar position as we mad
 When forming up with your flight lead in a turn it is safest to form up on the outside of the circle, if your flight lead wishes otherwise they will instruct you.
 
 ![Fig 3 - Cone of Manouvering](cone-of-manouver.jpg)
+
+### Transiting
+Transiting from the Nellis AFB airspace to your target range is done in formation with your flight lead. The target range is entered into your A-4E-C Skyhawks navigation computer as **D1** (*Waypoint 1*). You may use your navigation system to enter this waypoint in, but it is not necessary.
+
+Your destination is the Dog Bone Lake Range. Dog Bone Lake is a dog bone-shaped topographic flat with two larger ends connected by a narrow body.
+
+
+## Bombing Range Pattern
+Our Dog Bone Lake range is a Inert Weapons Only range located in Grid and at **Waypoint 1**. On arrival to the range or shortly before, the IP will have the Cadet move into a trailing formation position. This is a position behind and below the IP's aircraft. (*see Fig 4)
+
+![Fig 4 - Trailing formation](trailing-formation-diagram.jpg)
+
+We will be flying a North-South Left-hand pattern over this range in the valley at approximately 8000ft MSL. The general excersize will be that the Cadet follows the IP through the pattern two to three times, and then the IP will switch positions with the Cadet who will then fly the pattern.
+
+The first pass by the IP the will drop a pair of practice bombs, the entire focus of the Cadet on this run is to observe the IP, stay in formation, and not lose visual of the IP.
+
+The second pass will help further familurize the Cadet with the pattern and sight picture of the target. If the cadet still feels unsure they may communicate that to the IP via Inter-flight, and another pass can be done.
+
+### The Pattern
+The basic bombing pattern follows a similar pattern to normal airport traffic patterns. The pattern we will follow on this sortie is a Left-Traffic style of pattern, because we turn out left after making our run in on the target. 
+
+![Fig 5 - Bombing Pattern](bombing-pattern.jpg)
