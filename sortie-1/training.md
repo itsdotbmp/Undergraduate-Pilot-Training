@@ -13,7 +13,7 @@ The Basic flight plan for sortie 1 is as follows:
 - Basic communications
     - [Structure of Communications](#structure-of-communications)
     - [Radio Etiquette](#radio-etiquette)
-    - [Non-Towered Airfield Communication](#non-towered-airfields)
+    - [Unified Non-Towered Airfield Communication](#unified-non-towered-airfields)
     - [Inter-flight Communication](#inter-flight-communication)
 - Taxi and take-off
 - Rejoin and transit
@@ -112,6 +112,8 @@ Operations)](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-6
 
 ### Inter-flight Communication
 
+Normally air assets, such as your training flight, are given a tactical callsign often followed by a number to identify them. In this case TALON is the tactical callsign, and ONE lets us know that this is flight number one. This number is important when there is more then one TALON flight operating in a given area.
+
 Inter-flight communication is the name given to all communications between the aircraft that comprimise a flight. The flight adopts modified callsigns, removing the tactical callsign and using instead their position within the flight. The flight leader as DASH ONE, and wingmen will then be numbered DASH TWO, DASH THREE, and DASH FOUR respectively.
 
 Most inter-flight communications will take place on a dedicated channel specifically used by the flight. By using an unique radio frequency a flight is able to protect the integrety of their transmissions. Inter-flight communication uses a simplified form of the ABC radio conventions, this is to assure that the radio frequency is held clear for time critical callouts between members of the flight. 
@@ -144,10 +146,32 @@ An example a two ship flight check in on 127.5 MHz:
 
 #### Helmet Fire
 
-When pilots have too much radio traffic, the sounds of the aircraft, missile tones, RWR gear, and perhaps even intercom radio chatter from their back seat, we call this *radio fire*.
+When pilots have too much radio traffic, the sounds of the aircraft, missile tones, RWR gear, and perhaps even intercom radio chatter from their back seat, we call this *helmet fire*.
 
 This is a condition where a radio operator is overwhelmed. In this situation the operator will need to start prioritizing information and will not be able to appropriately recieve or react to incoming traffic. It can quickly become a dangerous situation as the pilots ability to fly and assess threats is quickly overwhelmed.
 
 It can be difficult to know if the pilot you are transmitting with over a shared frequency is in such a situation at times, especially because you may not be in that situation. However should you ever find yourself in this situation you will quickly understand why it is so critical that we follow these standards in our radio communications greatly simplifying the workload.
 
-When experiencing helmet fire and dealing with critical situations in our aircraft, it is always acceptable to inform others on the frequency that you are dealing with something and that you need less helmet fire. And when you yourself hear such a request, treat it similarly to a *break! break!* or *hold traffic* command. 
+When experiencing helmet fire and dealing with critical situations in our aircraft, it is important that you start prioritizing what information is important. Always fly the aircraft first, then communicate. If you are on an inter-flight frequency that is adding to the helmet fire it can be acceptable to call for clear air, or prority traffic only. In our training flights you may also inform your instructor or flight lead that you are having issues, identify what those issues are, and we will work together to help resolve the problem.
+
+## Taxi, Take-off, and Rejoin
+The next sessions of this training material will prepare you for the flight portions of your first Training Qualification Sortie.
+
+### Taxiing
+Taxing your A-4E-C Skyhawk requires the use of differential braking. This necessistates a low forward speed to enable the your A-4E-C Skyhawk to be able to make turns during taxi operations. This will require some practice in your trainer before you become proficient. Extra care will be required when making sharp turns on taxi-ways can lead to a brake lockup situation which limits the aircrafts ability to turn.
+
+In our training sorties we will attempt to limit the amount of required taxiing for our Cadets.
+
+When we start in our aircraft we will perform a pre-taxi checklist, as we can see below. This checklist is also included in the kneeboard in-game.
+
+![A-4E-C Checklist - Pre-taxi](a-4e-c_pre-tax_checklist.jpg)
+
+After your flight leader completes their copy of this checklist they will use interflight radio to ask for your status with a *check-in* call out. Once your checklist is completed then you may reply with your *Green Jet* reply, if you still need time then communicate that to your flight lead.
+
+Once all aircraft in the flight are ready, your flight lead will make an announcement on the airfield radio frequency, this is your last signal to begin watching your flight lead who will begin taxiing. They may also call out when they start taxiing. It is important to wait until your flight leader is clear of you before you begin taxiing to follow. Ensure at least 2 aircraft distance from your flight lead at all times on the ground.
+
+You will follow your flight lead to the runway, they will take one side of the runway, and you are expected to line up on the opposite side of the centerline (See figure below).
+
+
+![Runway Positioning diagram](runway-pre-takeoff-position.jpg)
+
