@@ -163,16 +163,16 @@ Taxing your A-4E-C Skyhawk requires the use of differential braking. This necess
 
 In our training sorties we will attempt to limit the amount of required taxiing for our Cadets.
 
-When we start in our aircraft we will perform a pre-taxi checklist, as we can see below. This checklist is also included in the kneeboard in-game.
+When we start in our aircraft we can perform a pre-taxi checklist, this helps us ensure that our aircraft is configured correctly. This checklist is also included in the kneeboard in-game. Here is a modified version of the checklist covering only the portions that we require for these sorties.
 
 ![A-4E-C Checklist - Pre-taxi](a-4e-c_pre-tax_checklist.jpg)
 
-After your flight leader completes their copy of this checklist they will use interflight radio to ask for your status with a *check-in* call out. Once your checklist is completed then you may reply with your *Green Jet* reply, if you still need time then communicate that to your flight lead.
+After your flight leader completes their copy of this checklist they will use interflight radio to ask for your status with a *check-in* call out. Once you are satisfied that your aircraft is ready, and you have no warnings or cautions, then you may reply with your *Green Jet* reply, if you still need time then communicate that to your flight lead.
 
 Once all aircraft in the flight are ready, your flight lead will make an announcement on the airfield radio frequency, this is your last signal to begin watching your flight lead who will begin taxiing. They may also call out when they start taxiing. It is important to wait until your flight leader is clear of you before you begin taxiing to follow. Ensure at least 2 aircraft distance from your flight lead at all times on the ground.
 
 ### Pre-takeoff Checklist
-Before entering the runway you and your flight lead will stop and perform the Pre-takeoff checklist. 
+Before entering the runway you and your flight lead will stop and perform the Pre-takeoff checklist. It is recommended you do the same, but not required. Here is a modified checklist that you can use during these sorties.
 
 ![A-4E-C Checklist - Pre-Takeoff](a-4e-c_pre-takeoff_checklist.jpg)
 
