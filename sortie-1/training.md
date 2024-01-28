@@ -15,10 +15,11 @@ The Basic flight plan for sortie 1 is as follows:
     - [Radio Etiquette](#radio-etiquette)
     - [Unified Non-Towered Airfield Communication](#unified-non-towered-airfields)
     - [Inter-flight Communication](#inter-flight-communication)
-- Taxi and take-off
-- Rejoin and transit
-- Bombing range pattern
-- Return to base and landing
+- [Taxi and take-off](#taxi-and-take-off)
+    - [Taxiing](#taxiing)
+- [Rejoin and transit]
+- [Bombing range pattern]
+- [Return to base and landing]
 
 
 ## Basic Communications
@@ -154,7 +155,7 @@ It can be difficult to know if the pilot you are transmitting with over a shared
 
 When experiencing helmet fire and dealing with critical situations in our aircraft, it is important that you start prioritizing what information is important. Always fly the aircraft first, then communicate. If you are on an inter-flight frequency that is adding to the helmet fire it can be acceptable to call for clear air, or prority traffic only. In our training flights you may also inform your instructor or flight lead that you are having issues, identify what those issues are, and we will work together to help resolve the problem.
 
-## Taxi, Take-off, and Rejoin
+## Taxi and Take-off
 The next sessions of this training material will prepare you for the flight portions of your first Training Qualification Sortie.
 
 ### Taxiing
@@ -170,8 +171,55 @@ After your flight leader completes their copy of this checklist they will use in
 
 Once all aircraft in the flight are ready, your flight lead will make an announcement on the airfield radio frequency, this is your last signal to begin watching your flight lead who will begin taxiing. They may also call out when they start taxiing. It is important to wait until your flight leader is clear of you before you begin taxiing to follow. Ensure at least 2 aircraft distance from your flight lead at all times on the ground.
 
-You will follow your flight lead to the runway, they will take one side of the runway, and you are expected to line up on the opposite side of the centerline (See figure below).
+### Pre-takeoff Checklist
+Before entering the runway you and your flight lead will stop and perform the Pre-takeoff checklist. 
 
+![A-4E-C Checklist - Pre-Takeoff](a-4e-c_pre-takeoff_checklist.jpg)
+
+Once flight lead has finished their pre-takeoff checklist they will ask the flight to check-in. Once you have completed your checklist you may respond with your position and status, for example:
+> *TWO Green Jet, Ready for take off*
+
+Once the flight is ready, the flight lead will announce entering the runway and the flight will follow on to the runway. The flight lead will take up a position either on the left or right of the run way, with *DASH TWO* and *DASH FOUR* taking up positions on the opposite side of the runway, and *DASH THREE* directly behind *DASH ONE*. (See figure below).
 
 ![Runway Positioning diagram](runway-pre-takeoff-position.jpg)
 
+### Takeoff
+Once both aircraft are lined up on the runway in their proper positioning and prepared for take-off, we will begin a *delayed departure* take-off. The major component to this type of take off is that you do not begin moving at the same time. Once the lead releases their brakes and makes their *Brakes! Brakes! Brakes!* call you begin counting down 10 seconds. This count starts as the last Brakes is called out in the triplet. 
+
+To be prepared for take off the flight lead will instruct the flight to power check. You should then push the power up to 70% power and hold the brakes, then power back down to idle. Once flight lead has called *Brakes! Brakes! Brakes!* and the 10 second countdown has completed you will release the brakes and push the power up smoothly to MIL. You should then announce via interflight that *TWO is rolling*.
+
+*Please note: The exact power setting depends on the airframe you are flying. The numbers in this document reflect the A-4E-C aircraft.*
+
+You will then perform a standard take-off roll appropriate for the loadout of your aircraft.
+
+*Cadets are expected to practice take offs and landings in the A-4E-C aircraft prior to flying with their IPs. This is not a course to teach you to fly the A-4E-C Module, however basic proficiancy is expected of this airframe. This airframe was chosen for it being easy to adapt too, and similarity to the F-4 Phantom II airframe.*
+
+## Rejoin and Transit
+
+Once your aircraft is safely in the air with gears and flaps retracted you should make your turn to rejoin. The standard pattern IP's will fly out of Nellis AFB for this Sortie is a right orbiting climb. You will hear your instructor starting to make callouts of speed and heading. Using this information your job is to rejoin on your flight leads aircraft in an echelon pattern, or whichever formation your IP has briefed for the flight.
+
+To perform a safe and expedient rejoin we need to control our speed and heading to create a safe closure speed. We aim to not be more then 25kts faster then our flight lead, so if they call out 225kts indicated air speed then we should aim to be no more then 250kts IAS.
+
+We also want to keep a visual reference on our flight lead, we cal this *Visual*, when we do not have a visual reference on our flight lead or wingment we make a *blind* call. For example:
+> TWO is Blind ONE
+
+*Note, we **do not** use the call tally when referring to friendly aircraft, tally is a Brevity Code that references a target or enemy.*
+
+As we manouver to rejoin into formation with our flight lead we are cutting inside of the circle to shorten the distance we need to fly to catch up to our flight lead. The goal is to ease into position safely.
+
+*Please refer to the figure below regarding lead, lag, and positiong*
+
+### Unsafe-Rejoin
+If we see that we are moving too quickly to safely rejoin, we must fly in a way that ensures we do not go blind of our instructor aircraft, so we aim behind them and below them. This is commonly referred to *spitting out* in air combat manouvers. This ensures we do inadvertently fly into our wingmans aircraft when we can not see it below our aircraft.
+
+If you are unable to rejoin on the first attempt it is much preferred that you lag behind your flight lead to travel a further distance and create seperation before attempting to rejoin once again.
+
+Here is a diagram depicting lead and lag:
+![Lead and lag diagram](lead-lag-diagram.jpg)
+
+### Positioning and Formation
+When moving into formation position we aim to be in a similar position as we made on the runway before take off, however we may increase the overall distance from our flight lead for safety. Being further away makes it easier to control your speed and is easier for your flight lead to keep a visual contact with you. See Fig 3 - Cone of Manouvering below
+
+When forming up with your flight lead in a turn it is safest to form up on the outside of the circle, if your flight lead wishes otherwise they will instruct you.
+
+![Fig 3 - Cone of Manouvering](cone-of-manouver.jpg)
