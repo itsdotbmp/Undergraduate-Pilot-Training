@@ -1,7 +1,7 @@
 ---
-Title: Sortie 1 Training Package
 layout: page
-
+title: Sortie 1 Training Package
+permalink: /training/
 ---
 
 
