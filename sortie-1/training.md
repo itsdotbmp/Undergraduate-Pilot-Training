@@ -1,3 +1,10 @@
+---
+Title: Sortie 1 Training Package
+layout: page
+
+---
+
+
 # DCS Undergraduate Pilot Training Program
 # Sortie 1 Training Package
 ## About this Sortie
