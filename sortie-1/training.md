@@ -4,9 +4,6 @@ title: Sortie 1 Training Package
 permalink: sortie-1/training/
 ---
 
-
-# DCS Undergraduate Pilot Training Program
-# Sortie 1 Training Package
 ## About this Sortie
 This is our first sortie of the DCS UPT Program, It will be used to assess where the Cadet pilot is in their skills, as well as begin introducing the standards of operations (SOPs) in the 3or4 VFW.
 
