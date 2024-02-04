@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: training
 title: Sortie 1 Training Package
 permalink: sortie-1/training/
 ---
