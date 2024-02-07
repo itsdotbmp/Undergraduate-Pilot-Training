@@ -1,10 +1,10 @@
 title: Virtual Undergraduate Pilot Training Program
 author: dotbmp
-email: your-email@domain.com
+# email: your-email@domain.com
 description: > # this means to ignore newlines until "twitter_username:"
   Virtual Undergraduate Pilot Training prepares DCS pilots for flying and working as a team.
   Teaching you the skills you can not learn alone,
-  So that you do not have to fight alone.
+  so that you do not fight alone.
 
 # social links
 # twitter_username: jekyllrb
