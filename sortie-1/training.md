@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sortie 1 Training Package
-# permalink: ../training/
+permalink: ../sortie-1/
 ---
 
 ## About this Sortie
