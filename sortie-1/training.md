@@ -189,7 +189,7 @@ Once flight lead has finished their pre-takeoff checklist they will ask the flig
 
 Once the flight is ready, the flight lead will announce entering the runway and the flight will follow on to the runway. The flight lead will take up a position either on the left or right of the run way, with *DASH TWO* and *DASH FOUR* taking up positions on the opposite side of the runway, and *DASH THREE* directly behind *DASH ONE*. (See figure below).
 
-![Runway Positioning diagram](runway-pre-takeoff-position.jpg)
+![Runway Positioning diagram](f1_runway_positioning.jpg)
 
 ### Takeoff
 Once both aircraft are lined up on the runway in their proper positioning and prepared for take-off, we will begin a *delayed departure* take-off. The major component to this type of take off is that you do not begin moving at the same time. Once the lead releases their brakes and makes their *Brakes! Brakes! Brakes!* call you begin counting down 10 seconds. This count starts as the last Brakes is called out in the triplet. 
@@ -223,14 +223,14 @@ If we see that we are moving too quickly to safely rejoin, we must fly in a way 
 If you are unable to rejoin on the first attempt it is much preferred that you lag behind your flight lead to travel a further distance and create seperation before attempting to rejoin once again.
 
 Here is a diagram depicting lead and lag:
-![Lead and lag diagram](lead-lag-diagram.jpg)
+![Lead and lag diagram](f2_lead_and_lag.jpg)
 
 ### Positioning and Formation
 When moving into formation position we aim to be in a similar position as we made on the runway before take off, however we may increase the overall distance from our flight lead for safety. Being further away makes it easier to control your speed and is easier for your flight lead to keep a visual contact with you. See Fig 3 - Cone of Manouvering below
 
 When forming up with your flight lead in a turn it is safest to form up on the outside of the circle, if your flight lead wishes otherwise they will instruct you.
 
-![Fig 3 - Cone of Manouvering](cone-of-manouver.jpg)
+![Fig 3 - Cone of Manouvering](f3_cone_of_manouver.jpg)
 
 ### Transiting
 Transiting from the Nellis AFB airspace to your target range is done in formation with your flight lead. The target range is entered into your A-4E-C Skyhawks navigation computer as **D1** (*Waypoint 1*). You may use your navigation system to enter this waypoint in, but it is not necessary.
@@ -241,7 +241,7 @@ Your destination is the Dog Bone Lake Range. Dog Bone Lake is a dog bone-shaped 
 ## Bombing Range Pattern
 Our Dog Bone Lake range is a Inert Weapons Only range located in Grid and at **Waypoint 1**. On arrival to the range or shortly before, the IP will have the Cadet move into a trailing formation position. This is a position behind and below the IP's aircraft. (*see Fig 4)
 
-![Fig 4 - Trailing formation](trailing-formation-diagram.jpg)
+![Fig 4 - Trailing formation](f4_trailing_formation.jpg)
 
 We will be flying a North-South Left-hand pattern over this range in the valley at approximately 8000ft MSL. The general excersize will be that the Cadet follows the IP through the pattern two to three times, and then the IP will switch positions with the Cadet who will then fly the pattern.
 
@@ -252,4 +252,4 @@ The second pass will help further familurize the Cadet with the pattern and sigh
 ### The Pattern
 The basic bombing pattern follows a similar pattern to normal airport traffic patterns. The pattern we will follow on this sortie is a Left-Traffic style of pattern, because we turn out left after making our run in on the target. 
 
-![Fig 5 - Bombing Pattern](bombing-pattern.jpg)
+![Fig 5 - Bombing Pattern](f5_bombing_pattern.jpg)
