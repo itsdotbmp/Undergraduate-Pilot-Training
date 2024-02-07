@@ -36,9 +36,8 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages:
-- index.html
-- sortie-1.html
+#header_pages:
+# - about.html
 
 # Build settings
 theme: minima
@@ -46,3 +45,6 @@ theme: minima
 plugins:
 #  - jekyll-feed
  - jekyll-seo-tag
+
+optional_front_matter:
+  enabled: false
