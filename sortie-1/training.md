@@ -13,24 +13,6 @@ It is your responsibility, as a Cadet, to ensure you have reviewed this informat
 More information on our Training Program can be found [here](../training_program).
 
 
-## Table of Contents
-The Basic flight plan for sortie 1 is as follows:
-- Basic communications
-    - [Structure of Communications](#structure-of-communications)
-    - [Radio Etiquette](#radio-etiquette)
-    - [Unified Non-Towered Airfield Communication](#unified-non-towered-airfields)
-    - [Inter-flight Communication](#inter-flight-communication)
-- [Taxi and Take-off](#taxi-and-take-off)
-    - [Taxiing](#taxiing)
-    - [Take-off](#takeoff)
-- [Rejoin and transit](#rejoin-and-transit)
-    - [Safe-Rejoins](#safe-rejoins)
-    - [Positioning and Formation](#positioning-and-formation)
-- [Bombing Range Pattern](#bombing-range-pattern)
-    - [The Pattern](#the-pattern)
-- [Return to base and landing]
-
-
 ## Basic Communications
 Communication is a fundemental part of flying as an organized group. The following outlines the structure of proper radio communication, use of plain language, Non-towered airfield communications, and inter-flight communications.
 
