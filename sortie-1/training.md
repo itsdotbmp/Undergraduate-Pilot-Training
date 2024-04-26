@@ -1,5 +1,6 @@
 ---
 layout: training
+link: DCS UPT - Sortie 1
 title: DCS UPT - Sortie 1 - Basic Formation, with Ground attack Run in
 toc: false
 # permalink: ../sortie-1/
