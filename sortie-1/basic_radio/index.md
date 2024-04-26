@@ -1,5 +1,9 @@
-# Sortie 1 - Basic Communications
-
+---
+layout: training
+title: Sortie 1 - Basic Radio Communications
+toc: true
+permalink: ../sortie-1/basic_radio
+---
 
 ## Communication Basics
 Radio's are a Duplex communication form, someone is either transmitting or receiving. This means it is not possible to transmit or receive at the same time on a radio frequency.

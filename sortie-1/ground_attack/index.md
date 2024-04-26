@@ -1,5 +1,9 @@
-# Sortie 1 - Ground Attack Exercise
-
+---
+layout: training
+title: Sortie 1 - Ground Attack Exercise
+toc: true
+permalink: ../sortie-1/ground_attack
+---
 
 ## Overview
 The ground attack exercise in this sortie is a modified ground attack circuit flown in a close trailing formation. This exercise is similar to an attack run where the second aircraft closely follows the first to watch for threats, but the focus of this exercise is to help you become familiar with the basic circuit and to exercise flying in formation and keeping visual reference on a lead aircraft.

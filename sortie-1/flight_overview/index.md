@@ -1,4 +1,9 @@
-# Sortie 1 - Flight Briefing
+---
+layout: training
+title: Sortie 1 - Flight Briefing
+toc: true
+permalink: ../sortie-1/flight_overview
+---
 
 ## Flight Outline
 The basic outline of this flight is as follows:
