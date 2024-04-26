@@ -10,7 +10,7 @@
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {% unless page.toc == false %}
-        {% include toc.html html=content id="toc" h_max=3 ordered=true %}
+        {% include toc.html html=content id="toc" h_max=3 ordered=false %}
         {% endunless %}
         {{ content }}
       </div>
