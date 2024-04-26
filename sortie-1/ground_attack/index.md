@@ -2,7 +2,7 @@
 layout: training
 title: Sortie 1 - Ground Attack Exercise
 toc: true
-permalink: ./sortie-1/ground_attack
+permalink: /sortie-1/ground_attack
 ---
 
 ## Overview
