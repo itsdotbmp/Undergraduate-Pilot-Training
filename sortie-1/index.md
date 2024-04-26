@@ -3,7 +3,7 @@ layout: training
 link: DCS UPT - Sortie 1
 title: DCS UPT - Sortie 1 - Basic Formation, with Ground attack Run in
 toc: false
-# permalink: ../sortie-1/
+permalink: ../sortie-1/
 ---
 ## Sortie Overview
 This is our first Sortie of the UPT Program for DCS. This sortie will be used as in introduction of information, it is learning heavy compared to the rest of the course. The goal of this first sortie is to set up a strong foundation for everything that follows.
