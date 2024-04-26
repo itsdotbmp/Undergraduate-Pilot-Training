@@ -14,7 +14,7 @@ The basic outline of this flight is as follows:
 5. reform and transit flight back to airfield
 6. Delayed landing
 
-This document will cover the aspects of the formation flying you are expected to perform in this flight, the specific Ground attack exercise will be covered in the [Ground Attack Exercise](../ground_attack/) section.
+This document will cover the aspects of the formation flying you are expected to perform in this flight, the specific Ground attack exercise will be covered in the [Ground Attack Exercise](../sortie-1/ground_attack/) section.
 
 ## Taxi, Takeoff, Transit
 
