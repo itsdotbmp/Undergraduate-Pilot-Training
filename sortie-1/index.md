@@ -18,4 +18,4 @@ You are encouraged and welcome to practice everything in this sortie as many tim
 
 [DCS UPT - Sortie 1 - Flight overview](./flight_overview)
 
-[DCS UPT - Sortie 1 - Ground Attack Exercise](./ground_attack/)
+[DCS UPT - Sortie 1 - Ground Attack Exercise](./ground_attack)
