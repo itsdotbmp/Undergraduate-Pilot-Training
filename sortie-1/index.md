@@ -14,7 +14,7 @@ You are encouraged and welcome to practice everything in this sortie as many tim
 
 ## Sections
 
-[DCS UPT - Sortie 1 - Basic Radio Communication](./basic_radio/)
+[DCS UPT - Sortie 1 - Basic Radio Communication](./basic_radio)
 
 [DCS UPT - Sortie 1 - Flight overview](./flight_overview)
 
