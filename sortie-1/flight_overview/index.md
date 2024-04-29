@@ -2,7 +2,7 @@
 layout: training
 title: Sortie 1 - Flight Briefing
 toc: true
-permalink: ../sortie-1/flight_overview
+permalink: ../sortie-1/flight_overview/
 ---
 
 ## Flight Outline

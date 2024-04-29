@@ -2,7 +2,7 @@
 layout: training
 title: Sortie 1 - Basic Radio Communications
 toc: true
-permalink: ../sortie-1/basic_radio
+permalink: ../sortie-1/basic_radio/
 ---
 
 # Sortie 1 - Basic Radio Communications
