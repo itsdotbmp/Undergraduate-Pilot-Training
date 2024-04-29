@@ -1,9 +1,5 @@
----
-layout: training
-title: Sortie 1 - Basic Radio Communications
-toc: true
-permalink: ../sortie-1/basic_radio
----
+# Sortie 1 - Basic Communications
+
 
 ## Communication Basics
 Radio's are a Duplex communication form, someone is either transmitting or receiving. This means it is not possible to transmit or receive at the same time on a radio frequency.
@@ -13,7 +9,7 @@ Structured radio communication make it easier by allowing us to know what to exp
 ### Structure of Radio Communication
 The basic structure of radio communication is designed to make it quick and simple to know who is being communicated too, who is doing the communication, and what they are communicating about.
 That structure looks like this:
-> __A__this is __B__, where is __C__
+> **A** this is **B**, where is **C**
 
 An example of that structure with a real radio call could look like this:
 > Talon 1-1: NELLIS TRAFFIC, TALON ONE, Training flight of TWO A-4, Taxiing from APROM via BRAVO to RUNWAY TWO THREE RIGHT
