@@ -7,3 +7,5 @@ sortie-2/_source/delay turn.afdesign~lock~
 sortie-2/_source/delay turn.afdesign~lock~
 sortie-2/_source/delay turn.afdesign~lock~
 *.afdesign~lock~
+*.afdesign
+/sortie-2/_source
