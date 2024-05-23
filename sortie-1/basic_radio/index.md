@@ -3,6 +3,7 @@ layout: training
 title: Sortie 1 - Basic Radio Communications
 toc: true
 permalink: ../sortie-1/basic_radio/
+sortie: sortie-1
 ---
 
 # Sortie 1 - Basic Radio Communications
