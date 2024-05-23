@@ -1,3 +1,6 @@
+website: https://itsdotbmp.github.io/undergraduate-pilot-training/
+basewebsite: /undergraduate-pilot-training
+
 title: Virtual Undergraduate Pilot Training Program
 author: dotbmp
 # email: your-email@domain.com
@@ -41,7 +44,7 @@ minima:
 
 # Build settings
 theme: minima
-baseurl: /undergraduate-pilot-training
+
 plugins:
 #  - jekyll-feed
  - jekyll-seo-tag
