@@ -14,7 +14,7 @@ This sortie may require a bit more practical preparation with a trainer, another
 
 Success in this sortie is not based on having a perfect formation, but instead of staying in formation, and performing quick rejoins when required.
 
-[DCS UPT - Sortie 2 - Formations](./formations/)
+[Formations](./formations/)
 
-[DCS UPT - Sortie 2 - Maneuvers](./maneuvers/)
+[Maneuvers](./maneuvers/)
 
