@@ -8,13 +8,13 @@ Welcome new pilot. This is the UPT course overview with links to each part of th
 Virtual UPT Framework
 
 [Sortie 1](sortie-1/)
-- [Basic Radio Communication]({% baseurl %}/{% link sortie-1/basic_radio/index.md %})
-- [Flight Briefing]({% baseurl %}/{% link sortie-1/flight_overview/index.md %})
-- [Ground Attack Exercise]({% baseurl %}/{% link sortie-1/ground_attack/index.md %})
+- [Basic Radio Communication](sortie-1/basic_radio/index.md )
+- [Flight Briefing](sortie-1/flight_overview/index.md )
+- [Ground Attack Exercise](sortie-1/ground_attack/index.md )
 
 [Sortie 2](sortie-2/)
-- [Formations]({% baseurl %}/{% link sortie-1/formations/index.md %})
-- [Maneuvers]({% baseurl %}/{% link sortie-1/maneuvers/index.md %})
+- [Formations](sortie-1/formations/index.md)
+- [Maneuvers](sortie-1/maneuvers/index.md)
 
 
 Sortie 3
