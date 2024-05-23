@@ -13,6 +13,9 @@ Virtual UPT Framework
 - [Ground Attack Exercise]({% baseurl %}/{% link sortie-1/ground_attack/index.md %})
 
 [Sortie 2](sortie-2/)
+- [Formations]({% baseurl %}/{% link sortie-1/formations/index.md %})
+- [Maneuvers]({% baseurl %}/{% link sortie-1/maneuvers/index.md %})
+
 
 Sortie 3
 - takeoff and rejoin
