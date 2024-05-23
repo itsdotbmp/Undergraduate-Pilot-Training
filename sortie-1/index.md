@@ -1,6 +1,6 @@
 ---
 layout: training
-title: DCS UPT - Sortie 1 - Basic Formation, with Ground attack Run in
+title: DCS UPT - Sortie 1 - Basic Formation, with Ground attack Circuit
 toc: false
 permalink: ../sortie-1/
 ---
@@ -13,8 +13,8 @@ You are encouraged and welcome to practice everything in this sortie as many tim
 
 ## Sections
 
-[DCS UPT - Sortie 1 - Basic Radio Communication](./basic_radio/)
+[Basic Radio Communication](./basic_radio/)
 
-[DCS UPT - Sortie 1 - Flight overview](./flight_overview/)
+[Flight Briefing](./flight_overview/)
 
-[DCS UPT - Sortie 1 - Ground Attack Exercise](./ground_attack/)
+[Ground Attack Exercise](./ground_attack/)
