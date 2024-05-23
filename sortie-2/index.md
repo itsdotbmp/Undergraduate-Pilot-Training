@@ -4,7 +4,6 @@ title: Sortie 2 - Formations and Manuevers
 toc: false
 permalink: ../sortie-2/
 ---
-# Sortie 2: Formations and Maneuvers
 
 ## Overview
 This is our second sortie, it is expected that you have  completed the first sortie [here](../sortie-1).

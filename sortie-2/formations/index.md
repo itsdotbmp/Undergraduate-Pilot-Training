@@ -4,7 +4,6 @@ title: Sortie 2 - Formations
 toc: true
 permalink: ../sortie-2/formations/
 ---
-# Sortie 2 - Formations
 
 ## Overview
 Here is a quick overview of each of the formations that we will be covering in this sortie. These formations are based on US Air Force terms and usage, the US Navy and other groups may have specific differences, but the foundations are the same.

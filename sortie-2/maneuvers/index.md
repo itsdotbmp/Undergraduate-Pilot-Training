@@ -4,7 +4,6 @@ title: Sortie 2 - Maneuvers
 toc: true
 permalink: ../sortie-2/maneuvers/
 ---
-# Sortie 2 - Maneuvers
 
 ## Formation Maneuvering
 Flying as a formation group is a demanding skill set that is difficult to learn. It takes coordination and planning for a flight to stay in formation as they maneuver. By using specific types of turns we can simplify this process through standardization.
