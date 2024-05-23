@@ -13,8 +13,8 @@ Virtual UPT Framework
 - [Ground Attack Exercise](sortie-1/ground_attack/ )
 
 [Sortie 2](sortie-2/)
-- [Formations](sortie-1/formations/)
-- [Maneuvers](sortie-1/maneuvers/)
+- [Formations](sortie-2/formations/)
+- [Maneuvers](sortie-2/maneuvers/)
 
 
 Sortie 3
