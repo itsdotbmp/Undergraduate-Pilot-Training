@@ -8,7 +8,7 @@ Welcome new pilot. This is the UPT course overview with links to each part of th
 Virtual UPT Framework
 
 [Sortie 1](sortie-1/)
-
+- [DCS UPT - Sortie 1 - Basic Radio Communication]({% link sortie-1/basic_radio/index.md %})
 [Sortie 2](sortie-2/)
 
 Sortie 3
